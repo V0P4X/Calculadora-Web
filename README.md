@@ -1,4 +1,4 @@
-## Calculadora em Python👋
+## Calculadora Web👋
 
 <!--
 **V0P4X/V0P4X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
